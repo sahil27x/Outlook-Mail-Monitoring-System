@@ -1,4 +1,4 @@
-# Outlook-Mail-Monitoring-System
+# Outlook-Mailbox-Monitoring-System
 An automated outlook mail monitoring system built in python
 - The application continuously monitors the user's inbox and read emails.
 - It parses only the configured emails sent by the specified users mentioned in the configuration file.
