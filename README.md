@@ -7,6 +7,13 @@ An automated outlook mail monitoring system built in python
 - Output - An excel file containing the count,Subject/Email Id, Description,Timestamp & Attachment details.
 - A monitoring report graph is generated after regular intervals which is sended to the user's email account.
 - It is a customizable email bot whose properties can be changed using configuration file.
+- Library used-
+1. pywin32
+2. pythoncomm
+3. matplotlib
+4. pandas
+5. xlsxwriter
+6. openpyxl
 
 1. Sending Sample-transmission email
 
